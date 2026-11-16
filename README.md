@@ -1,1 +1,1 @@
-# mcp-practice
+# mcp-server-practice
